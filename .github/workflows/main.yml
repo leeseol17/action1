@@ -12,3 +12,5 @@ jobs:
           echo "Line2"
       - name: Print goodbye
         run: echo "Goodbye!"
+      - name: Print singing
+        run: echo "lalala"
